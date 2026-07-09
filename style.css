@@ -1,0 +1,15 @@
+body {
+    min-height: 250px;
+    min-width: 300px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
